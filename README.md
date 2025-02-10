@@ -1,17 +1,17 @@
 
-**Query Expansion & Re-Ranking for Biomedical Information Retrieval**  
+## **Query Expansion & Re-Ranking for Biomedical Information Retrieval**  
 
-**Overview**  
+## **Overview**  
 This project explores advanced **query expansion** and **document re-ranking** techniques to improve biomedical information retrieval. 
 It was developed as part of a **bachelor thesis** and focuses on enhancing search accuracy in large-scale biomedical datasets, particularly the **TREC-COVID** dataset.  
 
-**Key Features**  
+## **Key Features**  
 - **Query Expansion**: Implements synonym-based query expansion using **Word2Vec** and **Semantic Knowledge Graphs (SKG)**.  
 - **Re-Ranking with Transformers**: Utilizes **BERT-based sentence embeddings** to refine search results.  
 - **Evaluation & Benchmarking**: Compares methods against the **BM25** baseline, showing improved precision and recall.  
 - **Scalable Search Implementation**: Uses **Elasticsearch** for document indexing and retrieval.  
 
-**Thesis Contribution**  
+## **Thesis Contribution**  
 - Proposes novel **query expansion** methods that dynamically enhance search queries.  
 - Integrates **neural ranking models** for effective **document re-ranking**.  
 - Demonstrates **state-of-the-art** results on the **TREC-COVID** dataset, outperforming standard retrieval methods.  
