@@ -36,7 +36,6 @@ It was developed as part of a **bachelor thesis** and focuses on enhancing searc
 📂 Thesis
  ├── 📜 data/                  # Dataset files (TREC-COVID)
  ├── 📜 src/                   # Code implementation
- ├── 📜 models/                # Pre-trained embeddings & models
  ├── 📜 results/               # Experimental results & benchmarks
  ├── 📜 README.md              # Project documentation (this file)
  └── 📜 thesis.pdf             # Full thesis document
@@ -48,4 +47,4 @@ If you use this project in your work, please cite:
 
 ---
 
-This README gives a clear explanation of both your thesis and code. Let me know if you want any modifications! 🚀
+
