@@ -16,20 +16,6 @@ It was developed as part of a **bachelor thesis** and focuses on enhancing searc
 - Integrates **neural ranking models** for effective **document re-ranking**.  
 - Demonstrates **state-of-the-art** results on the **TREC-COVID** dataset, outperforming standard retrieval methods.  
 
-## **Installation & Setup**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/bill-io/Thesis.git
-   cd Thesis
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the pipeline:  
-   ```bash
-   python main.py
-   ```
 
 ## **Folder Structure**  
 ```
