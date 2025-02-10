@@ -34,12 +34,13 @@ It was developed as part of a **bachelor thesis** and focuses on enhancing searc
 ## **Folder Structure**  
 ```
 📂 Thesis
- ├── 📜 data/                  # Dataset files (TREC-COVID)
  ├── 📜 code/                   # Code implementation
  ├── 📜 results/               # Experimental results & benchmarks
  ├── 📜 README.md              # Project documentation (this file)
  └── 📜 thesis.pdf             # Full thesis document
 ```
+## **The Whole TREC_COVID Dataset Can Be Found Through The Official Site Of "National Institute of Standards and Technology" **
+https://ir.nist.gov/trec-covid/data.html
 
 ## **Citation**  
 If you use this project in your work, please cite:  
