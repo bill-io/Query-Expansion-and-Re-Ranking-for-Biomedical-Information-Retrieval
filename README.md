@@ -35,7 +35,7 @@ It was developed as part of a **bachelor thesis** and focuses on enhancing searc
 ```
 📂 Thesis
  ├── 📜 data/                  # Dataset files (TREC-COVID)
- ├── 📜 src/                   # Code implementation
+ ├── 📜 code/                   # Code implementation
  ├── 📜 results/               # Experimental results & benchmarks
  ├── 📜 README.md              # Project documentation (this file)
  └── 📜 thesis.pdf             # Full thesis document
